@@ -1,16 +1,20 @@
-### Hi there 👋
+# README
 
-<!--
-**mrPragmatic07/mrPragmatic07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Java Engineer Consultant at Sparta Global, BSc International Business and Finance @Univeristy of Leeds. Self-Taught programmer. **WELCOME TO MY PAGE!**👨🏾‍💻
 
-Here are some ideas to get you started:
+### About Me!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy playing basketball, tennis and swimming. As a curious person by nature, I am also interested in world history and I like to be up-to-date with business trends and technologies. I am a quick and independent learner and an effective communicator.
+
+### Programming Languages
+
+- 🂡 C++
+- 🀞 Java
+- 🂭 MQL4/5
+- 🀁 TradingView PineScript
+
+### Interests
+
+- Algorithmic Trading
+- Capital Markets
+- Banking
