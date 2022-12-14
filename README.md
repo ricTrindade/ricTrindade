@@ -18,6 +18,6 @@ Junior Java Engineer at Sparta Global, BSc International Business and Finance @U
 
 ### 🏁 Currently Learning
 
-- Web Development
-- Java Spring Boot
+- Web Development & Testing
+- Java Spring Framework
 - C++ Data Structures & Algorithms
