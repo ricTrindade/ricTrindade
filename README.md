@@ -13,7 +13,7 @@ Software Engineer @NatWest | Consultant @SpartaGlobal, BSc International Busines
 
 - 🀞 Java
 - 🂡 C++
-- Python
+- 🃜 Python
 - 🂭 MQL4/5
 - 🀁 TradingView PineScript
 
