@@ -5,7 +5,7 @@ Junior Java Engineer at Sparta Global, BSc International Business and Finance @U
 
 ### ✅ Interests
 
-- Algorithmic Trading & Capital Markets
+- Algorithmic Trading
 - Banking & Finance
 - Basketball
 
@@ -13,6 +13,7 @@ Junior Java Engineer at Sparta Global, BSc International Business and Finance @U
 
 - 🀞 Java
 - 🂡 C++
+- Python
 - 🂭 MQL4/5
 - 🀁 TradingView PineScript
 
